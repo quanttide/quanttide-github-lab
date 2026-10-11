@@ -1,2 +1,3 @@
-# quanttide-github-lab
-量潮 GitHub 适配实验室
+# 量潮 GitHub 适配实验室
+
+GitHub 适配的实验原型：验证信息架构与接口假设。
