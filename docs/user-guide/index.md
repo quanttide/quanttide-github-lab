@@ -18,7 +18,7 @@
 | :-- | :-- | :-- |
 | 应用云 | `qtcloud-{简称}` | `apps/qtcloud-{简称}` |
 | 工具箱 | `quanttide-{简称}-toolkit` | `packages/quanttide-{简称}-toolkit` |
-| 实验室 | `quanttide-laboratory-of-{英文名}` | `examples/default` |
+| 实验室 | `quanttide-{简称}-lab` | `examples/quanttide-{简称}-lab` |
 | Context | `quanttide-context-of-{英文名}` | `data/context` |
 | Journal | `quanttide-journal-of-{英文名}` | `data/journal` |
 | Intention | `quanttide-intention-of-{英文名}` | `data/intention` |
