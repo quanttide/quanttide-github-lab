@@ -31,7 +31,7 @@ provider ∈ {local, github}              提供方，缺省 local
 | 资产类型 | 仓库名 | 挂载坐标 |
 | :-- | :-- | :-- |
 | 应用云 | `qtcloud-{简称}` | `apps/qtcloud-{简称}` |
-| 工具箱 | `quanttide-{简称}-toolkit` | `packages/quanttide-{简称}-toolkit` |
+| 标准库 | `quanttide-{简称}-toolkit` | `packages/quanttide-{简称}-toolkit` |
 | 实验室 | `quanttide-laboratory-of-{英文名}` | `examples/default` |
 | Context | `quanttide-context-of-{英文名}` | `data/context` |
 | Journal | `quanttide-journal-of-{英文名}` | `data/journal` |
